@@ -1,0 +1,4 @@
+# Window + input events only (allowed by the subject)
+glfw==2.9.0
+# Plain Python bindings to the OpenGL API (OpenGL.GL.shaders helpers are NOT used)
+PyOpenGL==3.1.9
